@@ -8,5 +8,5 @@ Groupe de collaboration pour des projets essentiellement axés logiciel.
 ## Auteurs
 
 - [@thedasken](https://www.github.com/thedasken)
-- [@Killaneo](https://www.github.com/Killahneo)
+- [@Killahneo](https://www.github.com/Killahneo)
 
